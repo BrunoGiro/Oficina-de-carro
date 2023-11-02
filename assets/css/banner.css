@@ -1,0 +1,19 @@
+.background-banner {
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/foto\ de\ banner.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+
+}
+
+
+.custom-card {
+  max-width: 430px;
+  /* Defina a largura máxima desejada para os cartões */
+  margin: 0 auto;
+
+}
